@@ -1,0 +1,7 @@
+accelerate
+docling
+jupyter
+nltk
+protobuf
+sentencepiece
+transformers
